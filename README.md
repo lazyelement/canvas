@@ -1,3 +1,3 @@
-# canvas
+# canvas painting
 
 Draw Something :D
